@@ -15,6 +15,8 @@ Tkinter is the standard GUI (Graphical User Interface) library for Python. It pr
 **3.2 Relevance of Game Development**
 Game development is a multi-faceted field that combines creativity, programming skills, and user experience design. Creating games helps developers improve their coding abilities, problem-solving skills, and understanding of user interaction. By developing the Iran-man Game, we explore the potential of Tkinter for creating interactive applications and gain insights into game logic and event handling. <br>
 
- **Interface**
+ ## Interface
+ 
 ![image](https://github.com/user-attachments/assets/fff73aa3-1dce-4970-bcdc-7cfc4c646a7c)
+
 ![image](https://github.com/user-attachments/assets/16a20599-31ed-4a49-9153-96a46c842e80)
